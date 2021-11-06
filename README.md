@@ -2,13 +2,13 @@
   <img width="20%" src="./assets/images/logo.png"><br/><br/>
   Part of Bellshade Project, managed by <a href="http://discord.gg/S4rrXQU"> WPU Discord Community</a> <br>
   WPU Community is the fastest growing software developer forum initiated by <a href="https://www.youtube.com/c/WebProgrammingUNPAS"> Mr. Sandhika Galih</a> <br>
-  <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" width=300 height=200>
   <a href="http://discord.gg/S4rrXQU"><img src="https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge"></a>
   <img src="https://img.shields.io/github/license/bellshade/Python?style=for-the-badge">
   <img src="https://img.shields.io/lgtm/grade/python/github/bellshade/PythonAlgorithm?label=Code%20Quality&style=for-the-badge">
   <img src="https://img.shields.io/codefactor/grade/github/bellshade/Python/main?label=code%20factor&style=for-the-badge">
   <img src="https://img.shields.io/github/workflow/status/bellshade/Python/python%20testing?label=python%20testing&style=for-the-badge">
-  <img src="https://img.shields.io/circleci/build/github/bellshade/Python/main?label=Circle%20CI&style=for-the-badge">
+  <img src="https://img.shields.io/circleci/build/github/bellshade/Python/main?label=Circle%20CI&style=for-the-badge"><br>
+  <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" width=300 height=200> <br>
 </p>
 
 Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algoritma, analisis matematika, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Python.
