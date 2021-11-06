@@ -5,7 +5,7 @@
 </p>
 
 
-pada kamu yang ingin belajar bahasa pemograman python, berikut urutan basic untuk pemula yang ingin belajar dari bahasa pemograman python. **disarankan belajar sesuai list tersebut**.
+Untuk kamu yang ingin belajar bahasa pemrograman python, berikut urutan basic untuk pemula yang ingin belajar dari bahasa pemograman python. **disarankan belajar sesuai list berikut**.
 
 1. [Introduction](Introduction.py)
 2. [Variable dan data types ( primitive )](2_variable)
@@ -22,18 +22,18 @@ pada kamu yang ingin belajar bahasa pemograman python, berikut urutan basic untu
 13. [Modul](13_module)
 14. [Tanggal dan Waktu (Datetime)](14_python_datetime)
 15. [Fungsi Matematika](15_python_math)
-16. [kelas](16_class)
-17. [turunan](17_inheritance)
-18. [akses modifikasi](18_akses_modifikasi)
+16. [Kelas](16_class)
+17. [Turunan](17_inheritance)
+18. [Akses modifikasi](18_akses_modifikasi)
 
 
-## install python pada perangkat
+## Install python pada perangkat
 
-- windows
+- Windows
 
-    untuk penginstalan python dan dipasangkan pada visual studio code bisa melihat link [disni](https://www.youtube.com/watch?v=OSmaWPSgvTQ&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=2)
+    Untuk penginstalan python dan dipasangkan pada visual studio code bisa melihat link [disini](https://www.youtube.com/watch?v=OSmaWPSgvTQ&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&index=2)
 
-- linux / macOS
+- Linux / macOS
     
     untuk penginstalan, python sudah menyediakan pada linux dan macOS dengan membuka terminal dan memberikan perintah
     ```
