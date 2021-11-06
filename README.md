@@ -62,17 +62,21 @@ Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming]()
 
 ## 🎓 Topik Lanjutan 🎓
 
-Jika kalian sudah menguasai dasar - dasar pemograman beserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka. 01. [Algoritma Struktur Data](/algorithm) 02. [Web Programming](/web_programming)
+Jika kalian sudah menguasai dasar - dasar pemograman beserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka. 
+
+01. [Algoritma Struktur Data](/algorithm) 
+
+02. [Web Programming](/web_programming)
 
 ## ⚡ Quick Access ⚡
 
 Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 
-- [basic](Basic/README.md)
-- [algoritma](algorithm)
-- [implementasi](implementation)
-- [web programming](web_programming)
-- [implementasi matematika](math)
+- [Basic](Basic/README.md)
+- [Algoritma](algorithm)
+- [Implementasi](implementation)
+- [Web Programming](web_programming)
+- [Implementasi Matematika](math)
 
 ## 🤩 Ayo ikut kami dan berkontribusi! 🤩
 
